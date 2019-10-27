@@ -35,8 +35,11 @@ Actions and movement can be taken in any order. For example, you can move 2 squa
 
 ### Movement
 You may move your units only on your turn.
+
 Diagonal movement is not permitted.
+
 Climbing up in the fort costs an extra 2 movement per level.
+
 Climbing down does not cost extra movement.
 
 ### Combat
