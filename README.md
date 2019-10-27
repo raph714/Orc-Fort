@@ -9,10 +9,10 @@ It's that time of year again! The winds blow hot from the neighboring desert and
 Each turn has several phases:
 1. Build phase. Add a platform to your fort.
 2. Collect resource phase. Roll the three 4 side dice and collect one resource for each die.
-  1 = Wood
-  2 = Iron
-  3 = Blood
-  4 = Magic
+  * 1 = Wood
+  * 2 = Iron
+  * 3 = Blood
+  * 4 = Magic
 Collect resources from buildings you control.
 Draw 1 action card.
 3. Main phase. You can purchase new fort pieces, buildings and units using resources. You can also move units and attack other player's units and buildings. See combat for details on how to conduct combat.
