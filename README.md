@@ -11,6 +11,7 @@ Points can be earned by killing opponents units or controlling buildings. Killin
 1. Each game has a set number of rounds. Standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
 2. [Action cards](ActionCards.md) may be played during anyones turn, in the main phase.
 3. Trading may take place during anyones turn.
+4. There is no maximum hand size.
 
 ### Setup
 Each player chooses a starting base and one starting [unit](Units.md). The chosen unit is placed in the center of the starting base.
