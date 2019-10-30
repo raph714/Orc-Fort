@@ -8,7 +8,7 @@ Points can be earned by killing opponents units or controlling buildings. Killin
 
 ## How to Play
 ### Basic Rules
-1. Each game has a set number of rounds. Standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
+1. A standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
 2. [Action cards](ActionCards.md) may be played during anyones turn, in the main phase.
 3. Trading may take place during anyones turn.
 4. There is no maximum hand size.
@@ -56,3 +56,7 @@ To conduct an attack, look at the stats for the unit you are attacking with and 
 If, at the end of a turn, a unit has 0 or less hit points remaining, that unit is killed and removed from the battlefield. The player who killed it gains a point.  
 If a [building](Buildings.md) has 0 or less hit points at the end of a turn, the attacking player may choose to destroy the building or take control of it.  
 Hit points for both units and buildings reset at the end of each turn.
+
+### [Buildings](Buildings.md)
+Buildings will give you victory points, and in most cases extra resources each turn. They can only be placed in the center tile of a platform. Buildings may be built on any platform that does not already have a building, and is not a player's home base.  
+As explained in combat, they can also be attacked by other players. The player who's turn it is when a building falls to 0 hitpoints may either destroy or capture the building. If captured, it becomes property of the conquering player and will produce victory points and resources for that player.
