@@ -1,5 +1,5 @@
 # Store
-Here you can spend resources to purchase units and buildings.  
+Here you can spend resources to purchase units and buildings. [Back to the rules](README.md).
 
 ## Units
 - Barbarian: 2 Iron, 1 Blood  
