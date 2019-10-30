@@ -6,18 +6,17 @@ It's that time of year again! The winds blow hot from the neighboring desert and
 Orcs like to keep things simple. The player with the most points at the end of the game wins.  
 Points can be earned by killing opponents units or controlling buildings. Killing a unit is worth 1 point, see the [buildings](Buildings.md) descriptions for victory points associated with each building.
 
-## How to Play
-### Basic Rules
+## Basic Rules
 1. A standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
 2. [Action cards](ActionCards.md) may be played during anyones turn, in the main phase.
 3. Trading may take place during anyones turn.
 4. There is no maximum hand size.
 
-### Setup
+## Setup
 Each player chooses a starting base and one starting [unit](Units.md). The chosen unit is placed in the center of the starting base.
 5 action cards are dealt to each player, and the player who rolls the highest on a 20 sided die goes first.
 
-### Turns
+## Turns
 Each turn has several phases:
 1. Build phase. Add a platform to your fort.
 2. Collect resource phase. 
@@ -30,18 +29,18 @@ Each turn has several phases:
     - Draw 1 [action card](ActionCards.md).
 3. Main phase. You can [purchase](Store.md) new fort pieces, [buildings](Buildings.md) and [units](Units.md) using resources. You can also move units and attack other player's units and buildings. You can purchase, move and attack in any order.
 
-### [Units](Units.md)
+## [Units](Units.md)
 During your turn, you may move each unit a number of squares up to the value in the unit's stats and take one action. Actions are listed in the stats of each unit, for example: melee attack, ranged attack, cast a spell.
 Actions and movement can be taken in any order. For example, you can move 2 squares, attack, and move another 4 squares (assuming your unit has a movement of 6).  
 Purchased units appear on your starting base. If there is no room on your starting base, they appear on the closest platform to it. Units may move and attack on the turn they enter the board.
 
-### Movement
+## Movement
 You may move your units only on your turn.  
 Diagonal movement is not permitted.  
 Climbing up in the fort costs an extra 2 movement per level.  
 Climbing down does not cost extra movement.  
 
-### Combat
+## Combat
 Attacks can only be made by the player who's turn it is. Each unit may have different types of attacks (melee, ranged, spell).  
 Units may attack other units, or buildings, but not the fort itself. Multiple attacks may be made on a single target if able.  
 
@@ -57,6 +56,6 @@ If, at the end of a turn, a unit has 0 or less hit points remaining, that unit i
 If a [building](Buildings.md) has 0 or less hit points at the end of a turn, the attacking player may choose to destroy the building or take control of it.  
 Hit points for both units and buildings reset at the end of each turn.
 
-### [Buildings](Buildings.md)
+## [Buildings](Buildings.md)
 Buildings will give you victory points, and in most cases extra resources each turn. They can only be placed in the center tile of a platform. Buildings may be built on any platform that does not already have a building, and is not a player's home base. Once a building is placed on a platform, the center tile can no longer be used for movement by units.  
 See combat for rules on how to take or destroy buildings.
