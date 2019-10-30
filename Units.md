@@ -1,4 +1,5 @@
 # Units
+Check out the [rules](README.md) for how these guys are used.
 
 ## Barbarian
 Hitpoints: 16  
