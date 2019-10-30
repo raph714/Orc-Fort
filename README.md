@@ -4,11 +4,11 @@ It's that time of year again! The winds blow hot from the neighboring desert and
 
 ## How to win
 Orcs like to keep things simple. The player with the most points at the end of the game wins.  
-Points can be earned by killing opponents units or controlling buildings. Units are all worth 1 point each, but some buildings are more valuable than others.
+Points can be earned by killing opponents units or controlling buildings. Killing a unit is worth 1 point, see the [buildings](Buildings.md) descriptions for victory points associated with each building.
 
 ## How to Play
 ### Basic Rules
-1. Each game has a set number of rounds. Standard game is 12 rounds, but you can decide to play a game of any length.
+1. Each game has a set number of rounds. Standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
 2. Action cards may be played during anyones turn, in the main phase.
 3. Trading may take place during anyones turn.
 
@@ -25,11 +25,11 @@ Each turn has several phases:
       - 2 = Iron
       - 3 = Blood
       - 4 = Magic
-    - Collect anything that is produced by buildings in your control.
+    - Collect anything that is produced by [buildings](Buildings.md) in your control.
     - Draw 1 action card.
-3. Main phase. You can purchase new fort pieces, buildings and units using resources. You can also move units and attack other player's units and buildings. You can purchase, move and attack in any order.
+3. Main phase. You can [purchase](Store.md) new fort pieces, [buildings](Buildings.md) and [units](Units.md) using resources. You can also move units and attack other player's units and buildings. You can purchase, move and attack in any order.
 
-### Units
+### [Units](Units.md)
 During your turn, you may move each unit a number of squares up to the value in the unit's stats and take one action. Actions are listed in the stats of each unit, for example: melee attack, ranged attack, cast a spell.
 Actions and movement can be taken in any order. For example, you can move 2 squares, attack, and move another 4 squares (assuming your unit has a movement of 6).
 
@@ -52,5 +52,5 @@ To calculate a ranged attack, follow the same rules as movement. If a ranged att
 #### Roll For Damage
 To conduct an attack, look at the stats for the unit you are attacking with and roll the die listed on the type of attack you are performing. For example, a barbarian making a melee attack would roll a 12 sided die and add 4 to the roll (d12 + 4) to determine the amount of damage done.  
 If, at the end of a turn, a unit has 0 or less hit points remaining, that unit is killed and removed from the battlefield. The player who killed it gains a point.  
-If a building has 0 or less hit points at the end of a turn, the attacking player may choose to destroy the building or take control of it.  
-Hit points reset at the beginning of each turn.
+If a [building](Buildings.md) has 0 or less hit points at the end of a turn, the attacking player may choose to destroy the building or take control of it.  
+Hit points for both units and buildings reset at the end of each turn.
