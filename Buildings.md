@@ -20,3 +20,8 @@ Benefit: +1 Wood per turn
 Victory Points: 1  
 Hitpoints: 20  
 Benefit: +1 Magic per turn
+
+## Statue of the King
+Victory Points: 1
+Hitpoints: 10
+Benefit: Nothing, ya brown noser.
