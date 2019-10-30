@@ -1,12 +1,12 @@
 # Units
 Check out the [rules](README.md) for how these guys are used.
 
-## Captain
+## Brawler
 Hitpoints: 16  
 Movement: 6  
 Melee Attack: Great Axe, 1d12 + 4  
 
-## Barbarian
+## Fighter
 Hitpoints: 14  
 Movement: 5  
 Melee Attack: Battle Axe, 1d8 + 4  
