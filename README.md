@@ -31,7 +31,8 @@ Each turn has several phases:
 
 ### [Units](Units.md)
 During your turn, you may move each unit a number of squares up to the value in the unit's stats and take one action. Actions are listed in the stats of each unit, for example: melee attack, ranged attack, cast a spell.
-Actions and movement can be taken in any order. For example, you can move 2 squares, attack, and move another 4 squares (assuming your unit has a movement of 6).
+Actions and movement can be taken in any order. For example, you can move 2 squares, attack, and move another 4 squares (assuming your unit has a movement of 6).  
+Purchased units appear on your starting base. If there is no room on your starting base, they appear on the closest platform to it. Units may move and attack on the turn they enter the board.
 
 ### Movement
 You may move your units only on your turn.  
