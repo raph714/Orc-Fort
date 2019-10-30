@@ -1,24 +1,24 @@
 # Units
 Check out the [rules](README.md) for how these guys are used.
 
-## Barbarian
+## Captain
 Hitpoints: 16  
 Movement: 6  
 Melee Attack: Great Axe, 1d12 + 4  
 
-## Fighter
+## Barbarian
 Hitpoints: 14  
 Movement: 5  
 Melee Attack: Battle Axe, 1d8 + 4  
 Range Attack: Long Bow (range 5), 1d8 + 1  
 
-## Cleric
+## Shaman
 Hitpoints: 10  
 Movement: 5  
 Melee Attack: Mace, 1d8 + 1  
 Special Ability (passive): Creatures within 2 spaces take 2 less damage from each attack.  
 
-## Mage
+## Warlock
 Hitpoints: 10  
 Movement: 6  
 Melee Attack: Dagger, 1d4 + 3  
