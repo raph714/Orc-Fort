@@ -58,5 +58,5 @@ If a [building](Buildings.md) has 0 or less hit points at the end of a turn, the
 Hit points for both units and buildings reset at the end of each turn.
 
 ### [Buildings](Buildings.md)
-Buildings will give you victory points, and in most cases extra resources each turn. They can only be placed in the center tile of a platform. Buildings may be built on any platform that does not already have a building, and is not a player's home base.  
+Buildings will give you victory points, and in most cases extra resources each turn. They can only be placed in the center tile of a platform. Buildings may be built on any platform that does not already have a building, and is not a player's home base. Once a building is placed on a platform, the center tile can no longer be used for movement by units.  
 As explained in combat, they can also be attacked by other players. The player who's turn it is when a building falls to 0 hitpoints may either destroy or capture the building. If captured, it becomes property of the conquering player and will produce victory points and resources for that player.
