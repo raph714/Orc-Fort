@@ -19,9 +19,9 @@ Melee Attack: Mace, 1d8 + 1
 Special Ability (passive): Creatures within 2 spaces take 2 less damage from each attack.  
 
 ## Mage
-Hitpoints: 10
-Movement: 6
-Melee Attack: Dagger, 1d4 + 3
+Hitpoints: 10  
+Movement: 6  
+Melee Attack: Dagger, 1d4 + 3  
 Spells:  
-  - Magic Missile (range 5), 3 missiles do 1d4 + 1 damage to up to 3 targets.
-  - Misty Step, Teleport up to 6 spaces.
+- Magic Missile (range 5), 3 missiles do 1d4 + 1 damage to up to 3 targets.
+- Misty Step, Teleport up to 6 spaces.
