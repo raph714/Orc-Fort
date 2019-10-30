@@ -1,5 +1,5 @@
 # Buildings
-Buildings can be placed in the center of a platform anywhere in the fort.
+Buildings can be placed in the center of a platform anywhere in the fort. [Back to the rules](README.md).
 
 ## Fighting Pit
 Victory Points: 1  
