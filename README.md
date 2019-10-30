@@ -13,7 +13,7 @@ Points can be earned by killing opponents units or controlling buildings. Units 
 3. Trading may take place during anyones turn.
 
 ### Setup
-Each player chooses a starting base and one starting (unit)[Units.md]. The chosen unit is placed in the center of the starting base.
+Each player chooses a starting base and one starting [unit](Units.md). The chosen unit is placed in the center of the starting base.
 5 action cards are dealt to each player, and the player who rolls the highest on a 20 sided die goes first.
 
 ### Turns
