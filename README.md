@@ -9,7 +9,7 @@ Points can be earned by killing opponents units or controlling buildings. Killin
 ## How to Play
 ### Basic Rules
 1. Each game has a set number of rounds. Standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
-2. Action cards may be played during anyones turn, in the main phase.
+2. [Action cards](ActionCards.md) may be played during anyones turn, in the main phase.
 3. Trading may take place during anyones turn.
 
 ### Setup
@@ -26,7 +26,7 @@ Each turn has several phases:
       - 3 = Blood
       - 4 = Magic
     - Collect anything that is produced by [buildings](Buildings.md) in your control.
-    - Draw 1 action card.
+    - Draw 1 [action card](ActionCards.md).
 3. Main phase. You can [purchase](Store.md) new fort pieces, [buildings](Buildings.md) and [units](Units.md) using resources. You can also move units and attack other player's units and buildings. You can purchase, move and attack in any order.
 
 ### [Units](Units.md)
