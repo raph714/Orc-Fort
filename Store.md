@@ -2,10 +2,10 @@
 Here you can spend resources to purchase units and buildings during the main phase of your turn. [Back to the rules](README.md).
 
 ## [Units](Units.md)
-- Barbarian: 2 Iron, 1 Blood  
+- Brawler: 2 Iron, 1 Blood  
 - Fighter: 2 Wood, 1 Blood
-- Mage: 2 Magic, 1 Blood
-- Cleric: 2 Blood, 1 Wood
+- Warlock: 2 Magic, 1 Blood
+- Shaman: 2 Blood, 1 Wood
 
 ## [Buildings](Buildings.md)
 - Fighting Pit: 2 Blood, 1 Iron
