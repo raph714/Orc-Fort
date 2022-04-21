@@ -2,7 +2,7 @@
 #### A board game.
 It's that time of year again! The winds blow hot from the neighboring desert and the midsummer games are upon us. Chieftans from across the kingdom come to compete for blood and honor at the start of raiding season. Tents are pitched, colored banners flap in the wind and scent of fried meat and hot leather fill the valley. Onlookers arrive days early to see the competetors, speculate and wager about the biggest event of the year.
 
-## How to win
+## Winning the Game
 Orcs like to keep things simple. The player with the most points at the end of the game wins. The game ends when either a player is knocked out of the game by having no more buildings or units on the board, or a player reaches the number of points agreed upon at the start of the game.
 
 ### Scoring Victory Points 
@@ -26,7 +26,7 @@ Each turn has several phases:
 3. Main phase. You can [purchase](Store.md) new fort pieces, [buildings](BuildingsAndUnits.md) and [units](Units.md) using resources. You can also move units and attack other player's units and buildings. You can purchase, move and attack in any order.
 
 ## Basic Rules
-1. A standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length.
+1. A standard game is either 12 rounds or the first player to 10 points, but you can decide to play a game of any length. Each building and unit are worth one point.
 2. [Action cards](ActionCards.md) may be played during anyones turn, in the main phase.
 3. Trading may take place during anyones turn.
 4. There is no maximum hand size.
@@ -37,9 +37,9 @@ Actions and movement can be taken in any order. For example, you can move 2 squa
 Purchased units appear on your starting base. If there is no room on your starting base, they appear on the closest platform to it that is on the same height or lower. Units may move and attack on the turn they enter the board.
 
 ## Movement
-You may move your units only on your turn.  
+You may move your units only on your turn. Each unit may move up to the value listed in the unit stats plus any modifiers.
 Diagonal movement is not permitted.  
-Climbing up in the fort costs an extra movement per level. For example taking one forward movement that also causes a unit to go up one step requires 2 movement points.
+Climbing up in the fort costs an extra movement per level. For example taking one forward movement that also causes a unit to go up one step requires 2 movement.
 Climbing down does not cost extra movement.
 Units may only climb up one level at a time unless overridden by a special ability.
 

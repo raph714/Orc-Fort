@@ -11,7 +11,7 @@ Here you can spend resources to purchase units and buildings during the main pha
 - Fighting Pit: 2 Blood, 1 Iron
 - Smith:  2 Iron, 1 Wood
 - Mill: 2 Wood, 1 Magic
-- Shaman Hut: 2 Magic, 1 Iron
+- Defense Tower: 2 Magic, 1 Iron
 - Statue of the King: 1 Iron, 1 Magic
 
 ## Other
