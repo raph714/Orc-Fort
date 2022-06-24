@@ -31,7 +31,7 @@ Artifacts are placed face up in front of the player who owns them and remain in 
 - [S] True Strike(2): Extra 5 damage to next attack, the attack cannot be blocked.
 - [S] Grappling Hook(3): One unit may climb a level in the fort for 1 movement.
 - [S] Extra Attack(3): Target unit may attack twice this turn.
-- [S] Store Room Fire(2): Player discards 2 resource cards.
+- [S] Store Room Fire(2): Target player discards 2 resource cards.
 - [S] Paralized(2): Target player discards 2 action cards.
 - [S] Hail Storm(2): All Orcs take 1 damage.
 - [S] Shatter(4): Destroy target artifact.
